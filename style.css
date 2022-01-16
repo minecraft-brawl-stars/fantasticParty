@@ -1,0 +1,100 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    border-radius: 10px ;
+    border: 5px solid blue;
+}
+
+header img{
+    margin-top: 2px;
+    margin-left: 1px;
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    border: 5px solid Blue;
+    background-color: blue;
+    border-radius: 10px;
+    
+}
+
+h1{
+    text-align: center;
+    color: RoyalBlue;
+    border: 5px solid lightblue;
+    border-radius: 10px;
+}
+
+footer{
+    border: 5px solid Salmon;
+    border-radius: 10px;
+}
+
+.adres{
+    border-top: 5px solid salmon;
+    border-bottom: 5px solid salmon;
+    text-align: center;
+}
+
+.telefon{
+    text-align: center;
+}
+
+.kontact{
+    text-align: center;
+}
+
+.tovar{
+    background-color: white;
+    color: mediumblue;
+}
+
+nav{
+    margin-top: 10px;
+}
+
+nav a{
+    border: 5px solid MediumBlue;
+    text-decoration: none;
+    border-radius: 20px;
+    padding: 4px;
+    background-color: mediumblue;
+    color: white;
+}
+
+.imgTovar{
+    background-color: salmon;
+    color: white;
+    margin-top: 5px;
+    margin-left: 5px;
+    border-radius: 10px;
+    border: 5px solid salmon;
+}
+
+main{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+h2{
+    color: DodgerBlue;
+}
+
+.top{
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 2px;
+    color: white;
+    background-color: blue;
+}
+
+.kontakt{
+    text-decoration: none;
+    border: 3px solid blue;
+    border-radius: 10px;
+    padding: 2px;
+}
